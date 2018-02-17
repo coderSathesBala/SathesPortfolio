@@ -1,0 +1,32 @@
+#firstPicture {
+  margin-left: -124px;
+  width: 1324px;
+  height: 678px;
+  margin-bottom: 50px;
+}
+
+.text-center {
+   position: absolute;
+   top: 200px;
+   left: 300px;
+   width: 50%;
+   color: white;
+   font-size: 50px;
+   font-weight: 600;
+}
+
+#hire {
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
+
+#website {
+  position: absolute;
+  left: 500px;
+  top: 400px;
+}
+
+.skills {
+  text-align: center;
+}
