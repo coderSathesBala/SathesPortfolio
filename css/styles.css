@@ -27,6 +27,37 @@
   top: 400px;
 }
 
-.skills {
+.projects {
   text-align: center;
+  margin-bottom: 100px;
+}
+
+.pic {
+  width: 500px;
+  margin-right: 100px;
+  float: left;
+}
+
+.name {
+  padding-top: 50px;
+}
+
+.info {
+  margin-bottom: 250px;
+}
+
+#pic1 {
+  margin-bottom: 250px;
+}
+
+#pic2 {
+  margin-bottom: 250px;
+}
+
+#paragraph1 {
+  margin-bottom: 370px;
+}
+
+#paragraph2 {
+  margin-bottom: 370px;
 }
