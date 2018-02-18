@@ -18,12 +18,12 @@
 #hire {
   position: absolute;
   top: 400px;
-  left: 300px;
+  left: 400px;
 }
 
 #website {
   position: absolute;
-  left: 500px;
+  left: 575px;
   top: 400px;
 }
 
@@ -105,4 +105,14 @@
   text-align: center;
   position: absolute;
   color: light-blue;
+}
+
+#ref {
+  font-weight: 900;
+  color: black
+}
+
+#control {
+  font-weight: 900;
+  color: black;
 }
